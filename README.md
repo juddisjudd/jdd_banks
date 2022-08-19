@@ -12,3 +12,5 @@ All-in-one FiveM Script for all Bank Heists.
 - [ox_inventory](https://github.com/overextended/ox_inventory)
 - [Gabz Fleeca, Paleto, and Pacific MLOs](https://fivem.gabzv.com/category/subscription)
 - [tbd hack](#)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ohitsjudd)
